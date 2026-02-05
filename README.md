@@ -18,11 +18,13 @@ My journey through Angela Yu's Complete Python Bootcamp
 - ✅ **Day 1:** Variables, Printing, String Manipulation
 - ✅ **Day 2:** Data Types, Mathematical Operations
 - ✅ **Day 3:** Control Flow, If/Else, Logical Operators
-- ⬜ Day 4: Lists, Random Module
-- ⬜ Day 5: Loops
-- ⬜ Day 6: Functions
-- ⬜ Day 7: Hangman Project
-
+- ✅ **Day 4:** Lists, Random Module, Rock Paper Scissors
+- ✅ **Day 5:** Loops, Range, Password Generator
+- ✅ **Day 6:** Functions, While Loops
+- ✅ **Day 7:** Hangman Project
+- ✅ **Day 8:** Functions with Inputs, Caesar Cipher
+- ✅ **Day 9:** Dictionaries, Nesting, Blind Auction
+- 🔄 **Day 10:** Functions with Outputs, Calculator (in progress)
 ---
 
 **Committing code daily to track progress and build consistency.**
