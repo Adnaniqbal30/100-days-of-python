@@ -14,6 +14,8 @@ My journey through Angela Yu's Complete Python Bootcamp
 
 ## Progress Log:
 
+**Current Progress:** Day 11/100 🔥
+
 ### Week 1 (Feb 3-9):
 - ✅ **Day 1:** Variables, Printing, String Manipulation
 - ✅ **Day 2:** Data Types, Mathematical Operations
@@ -24,7 +26,10 @@ My journey through Angela Yu's Complete Python Bootcamp
 - ✅ **Day 7:** Hangman Project
 - ✅ **Day 8:** Functions with Inputs, Caesar Cipher
 - ✅ **Day 9:** Dictionaries, Nesting, Blind Auction
-- 🔄 **Day 10:** Functions with Outputs, Calculator (in progress)
+- ✅ **Day 10:** Functions with Outputs, Calculator
+- ✅ **Day 11:** Blackjack Project
+
+**Projects completed:** 11 mini-projects in 4 days!
 ---
 
 **Committing code daily to track progress and build consistency.**
