@@ -1,5 +1,5 @@
 enemies = 1
-
+friends=0
 
 def increase_enemies():
     enemies = 2
