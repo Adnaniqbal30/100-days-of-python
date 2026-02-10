@@ -7,7 +7,6 @@ print("I am thinking of a number between 1 and 100.")
 random_number=random.randint(1,100)
 level=input("Choose a difficulty. Type 'easy' or 'hard': ")
 guess_number=int(input("Make a Guess: "))
-print(type(guess_number))
 
 def number_guess(gen_num,input_num,attempt):
     lives = 0
