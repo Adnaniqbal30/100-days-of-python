@@ -13,10 +13,11 @@ My journey through Angela Yu's Complete Python Bootcamp
 - APIs and automation
 
 ## Progress Log:
+**Current Progress:** Day 15/100 🔥
+**Started:** February 3, 2025  
+**Today:** February 10, 2025
 
-**Current Progress:** Day 11/100 🔥
-
-### Week 1 (Feb 3-9):
+### Week 1 (Feb 3-10):
 - ✅ **Day 1:** Variables, Printing, String Manipulation
 - ✅ **Day 2:** Data Types, Mathematical Operations
 - ✅ **Day 3:** Control Flow, If/Else, Logical Operators
@@ -28,8 +29,10 @@ My journey through Angela Yu's Complete Python Bootcamp
 - ✅ **Day 9:** Dictionaries, Nesting, Blind Auction
 - ✅ **Day 10:** Functions with Outputs, Calculator
 - ✅ **Day 11:** Blackjack Project
-
-**Projects completed:** 11 mini-projects in 4 days!
+- ✅ **Day 12:** Scope, Number Guessing Game
+- ✅ **Day 13:** Debugging
+- ✅ **Day 14:** Higher or Lower Game
+- ✅ **Day 15:** Coffee Machine OOP Project
 ---
 
 **Committing code daily to track progress and build consistency.**
