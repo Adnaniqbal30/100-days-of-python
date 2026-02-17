@@ -12,11 +12,15 @@ def random_color():
     rand_color=(r,g,b)
     return rand_color
 
-for i in range(50):
-    my_turtle.color(random_color())
-    my_turtle.circle(100)
+
+def draw_spirograph(size_of_the_gap):
+    for i in range(int(360/size_of_the_gap)):
+        my_turtle.color(random_color())
+        my_turtle.circle(100)
+        my_turtle.setheading(my_turtle.heading()+size_of_the_gap)
 
 
+draw_spirograph(5)
 
 
 
