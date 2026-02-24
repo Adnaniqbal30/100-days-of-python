@@ -1,5 +1,5 @@
 from turtle import Turtle
-class Snake():
+class Snake:
     def __init__(self):
         starting_posn=[(0, 0),(-20, 0),(-40, 0)]
         segments=[]
@@ -16,4 +16,4 @@ class Snake():
             new_y = segments[seg_num - 1].ycor()
             segments[seg_num].goto(new_x, new_y)
 
-    def move(self):
+        segments[0].forward(10)
